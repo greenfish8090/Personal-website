@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Spectral"
+
+# Optional Google font URL
+google_fonts = "family=Spectral:wght@200"
+
+# Font families
+heading_font = "Spectral"
+body_font = "Spectral"
+nav_font = "Spectral"
+mono_font = "Spectral"
