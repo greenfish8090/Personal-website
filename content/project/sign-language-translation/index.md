@@ -7,6 +7,7 @@ tags:
   - Sequence Processing
   - Video Processing
   - Machine Translation
+  - Natural Language Generation
 date: '2022-04-20'
 
 # Optional external URL for project (replaces project detail page).
