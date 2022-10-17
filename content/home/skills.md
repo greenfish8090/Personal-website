@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: Language
+  - description: Language and Culture
     icon: hiragana
     icon_pack: custom
     name: Japanese
@@ -32,7 +32,7 @@ feature:
     icon: 
     icon_pack: 
     name: 
-  - description: Mostly 3x3
+  - description: Mostly the 3x3
     icon: cube
     icon_pack: custom
     name: Speedcubing

@@ -22,16 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Associate ML Intern
+  - title: Undergraduate Teaching Assisstant
+    company: BITS Pilani, Hyderabad
+    company_url: 'https://www.bits-pilani.ac.in/hyderabad/'
+    company_logo: bits
+    location: India
+    date_start: '2022-08-01'
+    date_end: ''
+    description: |
+        Teaching assisstant for the course Natural Language Processing.
+        - Conducted a 1 hour demo on PyTorch for NLP: [**Code**](https://github.com/greenfish8090/PyTorch-Demo-NLP)
+        - Prepared lecture notes to summarize key concepts
+  - title: Machine Learning Intern
     company: Wadhwani AI
     company_url: 'https://www.wadhwaniai.org'
     company_logo: wiai
     location: India
     date_start: '2022-04-11'
-    date_end: ''
+    date_end: '2022-07-31'
     description: |2-
         **AI for Social good**. Worked on the Tuberculosis Adherence project.\
-        Involved lots of experimental reserch; responsibilities included:
+        Involved lots of experimental research on a wide array of topics; responsibilities included:
         - Exploratory data analysis and visualization
         - Development of ML algorithms
         - Development of working prototypes
@@ -44,10 +55,10 @@ experience:
     date_start: '2021-05-31'
     date_end: '2021-07-23'
     description: |2-
-        Worked on a project called 'StoryQube' which brings interactive 'choose your own adventure' stories to Alexa powered devices. Responsibities included:
-        - Writing the script
+        Worked on a project called 'StoryQube' which brings interactive 'choose your own adventure' games to Alexa powered devices. Responsibities included:
+        - Writing the script for the story
         - Modelling interactions between characters and players
-        - Integrating the story with Amazon's Alexa API
+        - Integrating the game with Amazon's Alexa API
 design:
   columns: '2'
 ---

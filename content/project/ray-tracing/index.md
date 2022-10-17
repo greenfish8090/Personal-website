@@ -50,7 +50,7 @@ using standard matrix geometrical calculations based on the normal of a triangle
 
 Now this process becomes extremely intensive very quickly and will take too long per frame to render, so a way out of this predicament is to split the work into multiple threads. A compute shader can accomplish This
 but dividing up and workspace into multiple work groups based on your graphics card and work on each one in seperate threads. This speeds up the process exponentially and eases up the work done by the CPU in calculations.
-A compute shader is fairly simple to set up, and for the purposes of OpenGL, we make a quad texture that covers the entire window onto which a texture is rendered and the compute shader draws pixels onto the texture 
+A compute shader is fairly simple to set up, and for the purposes of OpenGL, we make a quad texture that covers the entire window onto which a texture is rendered and the compute shader draws pixels onto the texture
 mentioned.<br><br>
 Now this looks pretty ugly without a background, so we added a skybox. It is a bounding box around a scene that appears to the viewer as the sky and background. Essentially, it is an arbitrarily large cube containing a warped texture or image to
 simulate atmosphere. We found this one off the internet:

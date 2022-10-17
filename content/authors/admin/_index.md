@@ -20,7 +20,7 @@ bio: My interests include deep learning, sequence processing and scuba diving.
 interests:
   - Natural Language Processing
   - Sequence Processing
-  - Deep Learning
+  - Computer Vision
 
 # Education to show in About widget
 education:
@@ -43,6 +43,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/pranav-balaji-6538471b2/
+  - icon: cv
+    icon_pack: ai
+    link: "/uploads/Pranav_Resume.pdf"
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -58,9 +61,9 @@ email: ''
 highlight_name: true
 ---
 
-Hi! I'm Pranav Balaji, a final year Computer Science undergraduate at BITS Pilani, Hyderabad. I'm mainly interested in the field of Natural Language Processing and Sequence Processing in general.\
+Hi! I'm Pranav Balaji, a final year Computer Science undergraduate at BITS Pilani, Hyderabad. I'm interested in the field of Natural Language Processing, but I've recently also been exploring Computer Vision and Reinforcement Learning.\
 \
-I've worked on many Deep Learning projects in the past as part of my internship, course-work and my own interest. Some of them include Sign Language Translation, Paraphrase Generation and Recommender systems among others. What started off as a simple exploration of the field, when I did the Machine Learning course by Andrew Ng, is slowly growing into my professional research interest. PyTorch is my framework of choice.\
+I've worked on many Deep Learning projects in the past as part of my internship, course-work and my own interest - Sign Language Translation, Paraphrase Generation and Recommender systems are a few. What started off as a simple exploration of the field, when I did the Machine Learning course by Andrew Ng, is slowly growing into my professional research interest. PyTorch is my framework of choice.\
 \
 I'm also interested in Computer Graphics with one of my favourite projects being Ray-tracing implemented in OpenGL. Looking forward to working on something that lies in the intersection of CG and ML.\
 \

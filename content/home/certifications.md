@@ -29,7 +29,7 @@ item:
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Deep Learning
+    title: Deep Learning Specialization (5 courses)
     url: https://www.coursera.org/specializations/deep-learning
     weight: 10
     
