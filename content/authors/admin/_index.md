@@ -61,7 +61,7 @@ email: ''
 highlight_name: true
 ---
 
-Hi! I'm Pranav Balaji, a final year Computer Science undergraduate at BITS Pilani, Hyderabad. I'm interested in the field of Natural Language Processing, but I've recently also been exploring Computer Vision and Reinforcement Learning. This semester, I'm working with [Dr. Abhijit Das](https://sites.google.com/site/dasabhijit2048/home?authuser=0) on Deepfake detection and with [Dr Manik Gupta](https://www.bits-pilani.ac.in/hyderabad/manik/Profile) on Few shot learning for ECG arrhythmia detection. Informally, I'm also working with [Dr. Keisuke Sakaguchi](https://keisuke-sakaguchi.github.io) on a project involving RL and NLP. \
+Hi! I'm Pranav Balaji, a final year Computer Science undergraduate at BITS Pilani, Hyderabad. I'm interested in the field of Natural Language Processing, but I've recently also been exploring Computer Vision (especially self-supervised learning) and Reinforcement Learning. This semester, I'm working with [Dr. Abhijit Das](https://sites.google.com/site/dasabhijit2048/home?authuser=0) on Generalizable Deepfake Detection and with [Dr. Manik Gupta](https://www.bits-pilani.ac.in/hyderabad/manik/Profile) on Few shot learning for ECG Arrhythmia detection. Informally, I'm also working with [Dr. Keisuke Sakaguchi](https://keisuke-sakaguchi.github.io) on a project involving NLP and Stock trading. \
 \
 I've worked on many Deep Learning projects in the past as part of my internship, course-work and my own interest - Video Sign Language Translation, Paraphrase Generation and Recommender systems are a few. What started off as a simple exploration of the field, when I did the Machine Learning course by Andrew Ng, has slowly grown into my professional interest.\
 \
