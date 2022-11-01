@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Undergraduate Teaching Assisstant
+  - title: Undergraduate Teaching Assistant
     company: BITS Pilani, Hyderabad
     company_url: 'https://www.bits-pilani.ac.in/hyderabad/'
     company_logo: bits
