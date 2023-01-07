@@ -22,13 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Intern
+    company: Inria
+    company_url: 'https://www.inria.fr/en'
+    company_logo: inr_logo_rouge
+    location: India
+    date_start: '2023-02-01'
+    date_end: ''
+    description: |
+        Generalizable Deepfake Detection. Details coming soon!
   - title: Undergraduate Teaching Assistant
     company: BITS Pilani, Hyderabad
     company_url: 'https://www.bits-pilani.ac.in/hyderabad/'
     company_logo: bits
     location: India
     date_start: '2022-08-01'
-    date_end: ''
+    date_end: '2022-12-31'
     description: |
         Teaching assisstant for the course Natural Language Processing.
         - Conducted a 1 hour demo on PyTorch for NLP: [**Code**](https://github.com/greenfish8090/PyTorch-Demo-NLP)
