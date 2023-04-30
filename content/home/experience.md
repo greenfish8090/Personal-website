@@ -56,18 +56,6 @@ experience:
         - Development of ML algorithms
         - Development of working prototypes
         - Literature review
-  - title: Script Writer
-    company: Voice Qube
-    company_url: 'https://voiceqube.com'
-    company_logo: voiceqube
-    location: India
-    date_start: '2021-05-31'
-    date_end: '2021-07-23'
-    description: |2-
-        Worked on a project called 'StoryQube' which brings interactive 'choose your own adventure' games to Alexa powered devices. Responsibities included:
-        - Writing the script for the story
-        - Modelling interactions between characters and players
-        - Integrating the game with Amazon's Alexa API
 design:
   columns: '2'
 ---
