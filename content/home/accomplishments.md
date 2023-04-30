@@ -23,6 +23,19 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: 2<sup>nd</sup>&nbsp; Position Nationwide
+    company: Amazon ML Challenge
+    company_url: 'https://www.hackerearth.com/challenges/new/competitive/amazon-ml-challenge-2023/'
+    company_logo: amazon
+    location: India
+    date_start: '2023-04-21'
+    date_end: '2023-04-23'
+    description: |2-
+        A 3 day ML Hackathon conducted by Amazon with 26000+ participants from top universities.
+        The task was to predict the product length in mm given the product title, description, and bullet points as text.
+       - Leaderboard: [**Team Fishes**](https://www.hackerearth.com/challenges/competitive/amazon-ml-challenge-2023/leaderboard/)
+       - GitHub Repository: [**AmazonML**](https://github.com/greenfish8090/AmazonML)
+  
   - title: 1<sup>st</sup>&nbsp; Position Nationwide
     company: HackOn with Amazon
     company_url: 'https://hackon-with-amazon.hackerearth.com'

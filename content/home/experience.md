@@ -23,10 +23,10 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Intern
-    company: Inria
+    company: Inria, Sophia Antipolis
     company_url: 'https://www.inria.fr/en'
     company_logo: inr_logo_rouge
-    location: India
+    location: France
     date_start: '2023-02-01'
     date_end: ''
     description: |

@@ -19,13 +19,13 @@ bio: My interests include deep learning, sequence processing and scuba diving.
 # Interests to show in About widget
 interests:
   - Natural Language Processing
-  - Sequence Processing
   - Computer Vision
+  - Reinforcement Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: BE in Computer Science and Engineering
+    - course: Bachelor's in Computer Science and Engineering
       institution: BITS Pilani
       year: 2019 - 2023
 
@@ -61,10 +61,10 @@ email: ''
 highlight_name: true
 ---
 
-Hi! I'm Pranav Balaji, a final year Computer Science undergraduate at BITS Pilani, Hyderabad. I'm interested in the field of Natural Language Processing, but I've recently also been exploring Computer Vision (especially self-supervised learning) and Reinforcement Learning. Last semester, I was working with [Dr. Abhijit Das](https://sites.google.com/site/dasabhijit2048/home?authuser=0) on Generalizable Deepfake Detection and with [Dr. Manik Gupta](https://www.bits-pilani.ac.in/hyderabad/manik/Profile) on Few shot learning for ECG Arrhythmia detection. Informally, I've also been working with [Dr. Keisuke Sakaguchi](https://keisuke-sakaguchi.github.io) on a project involving NLP and Stock trading. Currently, I'm in my final semester and will be doing my thesis at [Inria](https://www.inria.fr/en) under [Dr. Antitza Dantcheva](http://antitza.com). \
+Hi! I'm Pranav Balaji, a final year Computer Science undergraduate at BITS Pilani, Hyderabad. I'm interested in the field of Natural Language Processing, but I've recently also been exploring Computer Vision (especially self-supervised learning) and Reinforcement Learning. Last semester, I was working with [Dr. Abhijit Das](https://sites.google.com/site/dasabhijit2048/home?authuser=0) on Generalizable Deepfake Detection and with [Dr. Manik Gupta](https://www.bits-pilani.ac.in/hyderabad/manik/Profile) on Few shot learning for ECG Arrhythmia detection. Informally, I've also been working with [Dr. Keisuke Sakaguchi](https://keisuke-sakaguchi.github.io) on a project involving NLP and Stock trading. Currently, I'm in my final semester and am doing my thesis at [Inria](https://www.inria.fr/en) under [Dr. Antitza Dantcheva](http://antitza.com). \
 \
 I've worked on many Deep Learning projects in the past as part of my internship, course-work and my own interest - Video Sign Language Translation, Paraphrase Generation and Recommender systems are a few not mentioned above. What started off as a simple exploration of the field, when I did the Machine Learning course by Andrew Ng, has slowly grown into my professional interest.\
 \
 I'm also interested in Computer Graphics with one of my favourite projects being Ray-tracing implemented in OpenGL. Looking forward to working on something that lies in the intersection of CG and ML.\
 \
-For fun, I love to do Origami, Speedcubing, and go Scuba diving - having gotten certified by PADI as an Advanced Open Water Diver last year. As of the past 4 years, I've also been learning Japanese intermittently and have a deep appreciation for the culture.
+For fun, I love to do Origami, Speedcubing, and go Scuba diving - having gotten certified by PADI as an Advanced Open Water Diver last year. As of the past 4 years, I've also been learning Japanese intermittently and have a deep fascination with the language.
