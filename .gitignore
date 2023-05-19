@@ -1,5 +1,6 @@
 # IDEs
 .idea/
+*.code-workspace
 
 # Hugo
 resources/
