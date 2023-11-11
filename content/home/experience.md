@@ -22,15 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Co-Founder of Verbalia
+    company: Inria Startup Studio
+    company_url: 'https://www.inria.fr/en/inria-startup-studio'
+    company_logo: inr_logo_rouge
+    location: France
+    date_start: '2023-10-01'
+    date_end: ''
+    description: |
+        Details coming soon!
   - title: Research Intern
     company: Inria, Sophia Antipolis
     company_url: 'https://www.inria.fr/en'
     company_logo: inr_logo_rouge
     location: France
     date_start: '2023-02-01'
-    date_end: ''
+    date_end: '2023-05-22'
     description: |
-        Generalizable Deepfake Detection. Details coming soon!
+        Undergraduate thesis on Generalizable Deepfake Detection, Supervised by Dr. Abhijt Das and Dr. Antitza Dantcheva. 
   - title: Undergraduate Teaching Assistant
     company: BITS Pilani, Hyderabad
     company_url: 'https://www.bits-pilani.ac.in/hyderabad/'
@@ -51,11 +60,7 @@ experience:
     date_end: '2022-07-31'
     description: |2-
         **AI for Social good**. Worked on the Tuberculosis Adherence project.\
-        Involved lots of experimental research on a wide array of topics; responsibilities included:
-        - Exploratory data analysis and visualization
-        - Development of ML algorithms
-        - Development of working prototypes
-        - Literature review
+        Involved lots of experimental research on a wide array of topics.
 design:
   columns: '2'
 ---

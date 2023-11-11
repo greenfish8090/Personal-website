@@ -43,20 +43,12 @@ content:
   contact_links:
     - icon: envelope
       icon_pack: fas
-      name: f20190040@hyderabad.bits-pilani.ac.in (University)
-      link: 'mailto:f20190040@hyderabad.bits-pilani.ac.in'
+      name: pranavbalaji2@gmail.com
+      link: 'mailto:pranavbalaji2@gmail.com'
     - icon: envelope
       icon_pack: fas
-      name: pranavbalaji2@gmail.com (Personal)
-      link: 'mailto:pranavbalaji2@gmail.com'
-    - icon: phone
-      icon_pack: fas
-      name: +91 9573033515
-      link: 'tel: +91 9573033515'
-    - icon: instagram
-      icon_pack: fab
-      name: Instagram
-      link: 'https://www.instagram.com/pranav_balaji_/'
+      name: pranav.balaji@inria.fr
+      link: 'mailto:pranav.balaji@inria.fr'
 
 design:
   columns: '2'
