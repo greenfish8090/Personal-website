@@ -45,10 +45,6 @@ content:
       icon_pack: fas
       name: pranavbalaji2@gmail.com
       link: 'mailto:pranavbalaji2@gmail.com'
-    - icon: envelope
-      icon_pack: fas
-      name: pranav.balaji@inria.fr
-      link: 'mailto:pranav.balaji@inria.fr'
 
 design:
   columns: '2'

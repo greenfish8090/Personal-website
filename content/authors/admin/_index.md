@@ -6,12 +6,12 @@ title: Pranav Balaji
 superuser: true
 
 # Role/position/tagline
-role: Co Founder of Verbalia
+role: Data Scientsist at Space42
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Inria Startup Studio
-    url: https://www.inria.fr/en/inria-startup-studio
+  - name: Space42
+    url: https://space42.ai
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include deep learning, entrepreneurship and scuba diving.
@@ -19,8 +19,8 @@ bio: My interests include deep learning, entrepreneurship and scuba diving.
 # Interests to show in About widget
 interests:
   - Computer Vison
-  - Natural Language Processing
-  - Deep Learning
+  - Machine Learning
+  - Entreprenuership
 
 # Education to show in About widget
 education:
@@ -45,7 +45,7 @@ social:
     link: https://www.linkedin.com/in/pranav-balaji-6538471b2/
   - icon: cv
     icon_pack: ai
-    link: "/uploads/Pranav_Resume_Nov23.pdf"
+    link: "/uploads/Pranav_Balaji_CV.pdf"
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -61,10 +61,12 @@ email: ''
 highlight_name: true
 ---
 
-Hi! I'm Pranav Balaji, an entrepreneur at Inria Startup Studio. This site is a work in progress :)\
+Hi! I'm Pranav Balaji and I love building things.\
 \
-I've worked on many Deep Learning projects in the past as part of my internship, course-work and my own interest - Video Sign Language Translation, Paraphrase Generation and Recommender systems are a few not mentioned above. What started off as a simple exploration of the field, when I did the Machine Learning course by Andrew Ng, has slowly grown into my professional interest.\
+When I was little, it manifested as Origami, Lego and taking apart RC cars and helicopters only to assemble them back. As I grew older, I gravitated towards Computer Science and Engineering where I had seemingly limitless freedom on what I could do. I explored all the way from Arduino to Game dev to Web dev, but what stuck around was Machine Learning. I ended up doing my undergraduate thesis on it and co-founded a startup in the field.\
 \
-I'm also interested in Computer Graphics with one of my favourite projects being Ray-tracing implemented in OpenGL.\
+I've worked on many Deep Learning projects in the past as part of my education, work and my own interest - Talking head video generation, Video sign language translation, Continually trained transformer for paraphrase generation and an Anime recommender system are a few.\
 \
-For fun, I love to do Origami, Speedcubing, and go Scuba diving - having the Advanced Open Water Diver certification. As of the past 5 years, I've also been learning Japanese intermittently and have a deep fascination with the language.
+My fascination with Computer Graphics started off with a university project where my friends and I built a Ray Tracing pipeline with OpenGL and C++. This slowly evolved into a love for Computer Vision and I've been working in it ever since.\
+\
+For fun, I (still) love to do Origami, Speedcube, keep minimally mobile pets and go Scuba diving - having the Advanced Open Water Diver certification. As of the past 5 years, I've also been learning Japanese intermittently and have a deep fascination with the language.
